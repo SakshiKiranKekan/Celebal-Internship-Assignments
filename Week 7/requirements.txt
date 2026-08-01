@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+pymupdf
+pypdf
+python-dotenv
+google-generativeai
+tqdm
+numpy
